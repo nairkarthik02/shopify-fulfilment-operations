@@ -32,7 +32,7 @@ This project automates the generation of invoices and picklists for a Shopify st
 4. Set up triggers for the functions as needed and make changes wrt your needs.
 
 ### Link to The Google Sheet
-![Shopify Operaions Backend](https://docs.google.com/spreadsheets/d/1r2AihqBnvVbjz-dJh-qg__sB2Qjy28VeWTo1kAH3Je4)
+![Shopify Operaions Backend](https://docs.google.com/spreadsheets/d/1r2AihqBnvVbjz-dJh-qg__sB2Qjy28VeWTo1kAH3Je4)<img src="https://upload.wikimedia.org/wikipedia/commons/4/4f/Google_Sheets_logo_%282014-2020%29.png" alt="Google Sheets Logo" width="20" height="20">
 
 
 
