@@ -1,4 +1,5 @@
 # Shopify Invoice and Picklist Generator
+*With data logging*
 
 ## Overview
 
