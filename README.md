@@ -32,23 +32,15 @@ This project automates the generation of invoices and picklists for a Shopify st
 3. Save the script with an appropriate name.
 4. Set up triggers for the functions as needed (e.g., to run daily).
 
-### Shopify API Setup
+### Link to The Google Sheet
+![Shopify Operaions Backend](https://docs.google.com/spreadsheets/d/1r2AihqBnvVbjz-dJh-qg__sB2Qjy28VeWTo1kAH3Je4)
 
-1. Create a private app in your Shopify admin panel.
-2. Generate an API key and password.
-3. Update the script with your Shopify store details.
-
-## Usage
-
-1. **Fetch Orders**: Run the `fetchShopifyOrders` function to log new orders into the Google Sheet.
-2. **Generate Invoice**: Call the `generateInvoice(orderId)` function with a specific order ID to send an invoice to the customer.
-3. **Generate Picklist**: Execute the `generatePicklist` function to create a picklist for all unfulfilled orders.
 
 
 
 ## Contact
 
-For any inquiries or feedback, please contact [your email].
+For any inquiries or feedback, please contact nairkarthik02@gmail.com.
 
 ---
 
