@@ -28,9 +28,8 @@ This project automates the generation of invoices and picklists for a Shopify st
 ### Google Apps Script
 
 1. Open the Google Sheet and navigate to `Extensions` > `Apps Script`.
-2. Copy and paste your script into the Apps Script editor.
-3. Save the script with an appropriate name.
-4. Set up triggers for the functions as needed (e.g., to run daily).
+2. The Sheet Already has the Script loaded
+4. Set up triggers for the functions as needed and make changes wrt your needs.
 
 ### Link to The Google Sheet
 ![Shopify Operaions Backend](https://docs.google.com/spreadsheets/d/1r2AihqBnvVbjz-dJh-qg__sB2Qjy28VeWTo1kAH3Je4)
@@ -40,7 +39,7 @@ This project automates the generation of invoices and picklists for a Shopify st
 
 ## Contact
 
-For any inquiries or feedback, please contact nairkarthik02@gmail.com.
+For any inquiries or feedback, please contact ![Karthik Nair]nairkarthik02@gmail.com.
 
 ---
 
@@ -57,9 +56,4 @@ Picklist
 
 
 
----
-
-### Acknowledgements
-
-- Special thanks to the contributors of the Google Apps Script community.
-- Thanks to Shopify for providing an accessible API.
+--
