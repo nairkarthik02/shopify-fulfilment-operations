@@ -39,7 +39,7 @@ This project automates the generation of invoices and picklists for a Shopify st
 
 ## Contact
 
-For any inquiries or feedback, please contact ![Karthik Nair]nairkarthik02@gmail.com.
+For any inquiries or feedback, please contact [nairkarthik02@gmail.com].
 
 ---
 
